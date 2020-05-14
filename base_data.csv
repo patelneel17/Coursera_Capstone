@@ -55,7 +55,7 @@ CREOLA,36525,41 - CentBald/Summerdale/Loxley,,
 CREOLA,36525,29 - NE Mobile City/Mt. Vernon,,
 CREOLA,36525,28 - Saraland/Satsuma/Axis/Creola,,
 CREOLA,36575,28 - Saraland/Satsuma/Axis/Creola,,
-DAPHNE,3652,42 - SpFt/Daph/Fairhope/Mont,30.6035,-87.9036
+DAPHNE,36526,42 - SpFt/Daph/Fairhope/Mont,30.6035,-87.9036
 DAPHNE,36526,43 - Lake Forest/Daphne,30.6035,-87.9036
 DAPHNE,36526,42 - SpFt/Daph/Fairhope/Mont,30.6035,-87.9036
 DAUPHIN ISLAND,,30 - Dauphin Island,30.2496,-88.1839
@@ -116,12 +116,12 @@ KUSHLA,36613,27 - Saraland,,
 LOXLEY,36551,41 - CentBald/Summerdale/Loxley,30.6182,-87.753
 MCINTOSH,36553,31 - NW Mobile City/Citronelle,,
 MILLRY,36605,21 - Dauphin Island Pkwy South,31.634,-88.3133
-MOBILE,4,21 - Dauphin Island Pkwy South,30.6488,-88.1946
-MOBILE,366,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
-MOBILE,366,14 - Municipal Park/West Central,30.6488,-88.1946
-MOBILE,3660,16 - Cottage Hill N,30.6488,-88.1946
-MOBILE,3660,03 - MidTown East,30.6488,-88.1946
-MOBILE,3667,03 - MidTown East,30.6488,-88.1946
+MOBILE,36604,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,36521,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36521,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36606,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36603,03 - MidTown East,30.6488,-88.1946
+MOBILE,36670,03 - MidTown East,30.6488,-88.1946
 MOBILE,30660,04 - Dauphin Island Pkwy North,30.6488,-88.1946
 MOBILE,33605,21 - Dauphin Island Pkwy South,30.6488,-88.1946
 MOBILE,33617,09 - MidCentral,30.6488,-88.1946
@@ -359,7 +359,7 @@ SARALAND,36693,27 - Saraland,30.8207,-88.0706
 SARALAND,36695,27 - Saraland,30.8207,-88.0706
 SARALAND,36751,27 - Saraland,30.8207,-88.0706
 SARALAND,39571,28 - Saraland/Satsuma/Axis/Creola,30.8207,-88.0706
-SATSUMA,365,28 - Saraland/Satsuma/Axis/Creola,,
+SATSUMA,36572,28 - Saraland/Satsuma/Axis/Creola,,
 SATSUMA,36525,28 - Saraland/Satsuma/Axis/Creola,,
 SATSUMA,36544,28 - Saraland/Satsuma/Axis/Creola,,
 SATSUMA,36571,28 - Saraland/Satsuma/Axis/Creola,,
