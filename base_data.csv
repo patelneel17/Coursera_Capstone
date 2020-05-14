@@ -1,125 +1,448 @@
-City,MLS Area,County Or Parish,Latitude (generated),Longitude (generated)
-ATMORE,29 - NE Mobile City/Mt. Vernon,MOBILE,31.0238,-87.4939
-AXIS,28 - Saraland/Satsuma/Axis/Creola,MOBILE,30.9299,-88.0272
-AXIS,29 - NE Mobile City/Mt. Vernon,MOBILE,30.9299,-88.0272
-BAY MINETTE,40 - NBald/SpFt/BayMin/Loxley,MOBILE,30.883,-87.773
-BAYOU LA BATRE,20 - Western Bay Shores,MOBILE,30.4169,-88.225
-BAYOU LA BATRE,22 - S Mobile City/Theodore,MOBILE,30.4169,-88.225
-CALVERT,29 - NE Mobile City/Mt. Vernon,MOBILE,30.978,-96.6739
-CHICKASAW,11 - Chickasaw,MOBILE,,
-CHICKASAW,27 - Saraland,MOBILE,,
-CHUNCHULA,25 - West Mobile/Semmes,MOBILE,30.9219,-88.2006
-CHUNCHULA,26 - Semmes/Wilmer/Lott Rd,MOBILE,30.9219,-88.2006
-CHUNCHULA,27 - Saraland,MOBILE,30.9219,-88.2006
-CHUNCHULA,28 - Saraland/Satsuma/Axis/Creola,MOBILE,30.9219,-88.2006
-CHUNCHULA,29 - NE Mobile City/Mt. Vernon,MOBILE,30.9219,-88.2006
-CHUNCHULA,31 - NW Mobile City/Citronelle,MOBILE,30.9219,-88.2006
-CITRONELLE,26 - Semmes/Wilmer/Lott Rd,MOBILE,31.0907,-88.2281
-CITRONELLE,28 - Saraland/Satsuma/Axis/Creola,MOBILE,31.0907,-88.2281
-CITRONELLE,29 - NE Mobile City/Mt. Vernon,MOBILE,31.0907,-88.2281
-CITRONELLE,31 - NW Mobile City/Citronelle,MOBILE,31.0907,-88.2281
-CODEN,20 - Western Bay Shores,MOBILE,30.383,-88.2383
-CODEN,21 - Dauphin Island Pkwy South,MOBILE,30.383,-88.2383
-CODEN,22 - S Mobile City/Theodore,MOBILE,30.383,-88.2383
-CODEN,23 - Grand Bay North,MOBILE,30.383,-88.2383
-CREOLA,28 - Saraland/Satsuma/Axis/Creola,MOBILE,,
-CREOLA,29 - NE Mobile City/Mt. Vernon,MOBILE,,
-CREOLA,41 - CentBald/Summerdale/Loxley,MOBILE,,
-DAPHNE,42 - SpFt/Daph/Fairhope/Mont,MOBILE,30.6035,-87.9036
-DAPHNE,43 - Lake Forest/Daphne,MOBILE,30.6035,-87.9036
-DAUPHIN ISLAND,30 - Dauphin Island,MOBILE,30.2496,-88.1839
-EIGHT MILE,10 - Eight Mile/Prichard,MOBILE,30.7635,-88.1269
-EIGHT MILE,14 - Municipal Park/West Central,MOBILE,30.7635,-88.1269
-EIGHT MILE,25 - West Mobile/Semmes,MOBILE,30.7635,-88.1269
-EIGHT MILE,26 - Semmes/Wilmer/Lott Rd,MOBILE,30.7635,-88.1269
-EIGHT MILE,27 - Saraland,MOBILE,30.7635,-88.1269
-EIGHT MILE,31 - NW Mobile City/Citronelle,MOBILE,30.7635,-88.1269
-ELBERTA,45 - SBald/Elberta/GulfShr/OrgeBch,MOBILE,,
-FAIRHOPE,44 - Fairhope/PointClear,MOBILE,30.523,-87.9033
-FOLEY,41 - CentBald/Summerdale/Loxley,MOBILE,,
-FOLEY,45 - SBald/Elberta/GulfShr/OrgeBch,MOBILE,,
-GRAND BAY,19 - Tillman's Corner/Theodore,MOBILE,30.4763,-88.3422
-GRAND BAY,22 - S Mobile City/Theodore,MOBILE,30.4763,-88.3422
-GRAND BAY,23 - Grand Bay North,MOBILE,30.4763,-88.3422
-GRAND BAY,24 - West Mobile County,MOBILE,30.4763,-88.3422
-GULF SHORES,45 - SBald/Elberta/GulfShr/OrgeBch,MOBILE,30.246,-87.7008
-IRVINGTON,19 - Tillman's Corner/Theodore,MOBILE,,
-IRVINGTON,20 - Western Bay Shores,MOBILE,,
-IRVINGTON,22 - S Mobile City/Theodore,MOBILE,,
-IRVINGTON,23 - Grand Bay North,MOBILE,,
-IRVINGTON,24 - West Mobile County,MOBILE,,
-JACKSON,31 - NW Mobile City/Citronelle,MOBILE,,
-KUSHLA,27 - Saraland,MOBILE,,
-LOXLEY,41 - CentBald/Summerdale/Loxley,MOBILE,30.6182,-87.753
-MCINTOSH,31 - NW Mobile City/Citronelle,MOBILE,,
-MILLRY,21 - Dauphin Island Pkwy South,MOBILE,31.634,-88.3133
-MOBILE,01 - Downtown,MOBILE,30.6488,-88.1946
-MOBILE,02 - MidTown/South,MOBILE,30.6488,-88.1946
-MOBILE,03 - MidTown East,MOBILE,30.6488,-88.1946
-MOBILE,04 - Dauphin Island Pkwy North,MOBILE,30.6488,-88.1946
-MOBILE,07 - MidTown West,MOBILE,30.6488,-88.1946
-MOBILE,09 - MidCentral,MOBILE,30.6488,-88.1946
-MOBILE,10 - Eight Mile/Prichard,MOBILE,30.6488,-88.1946
-MOBILE,11 - Chickasaw,MOBILE,30.6488,-88.1946
-MOBILE,14 - Municipal Park/West Central,MOBILE,30.6488,-88.1946
-MOBILE,15 - Springhill/USA,MOBILE,30.6488,-88.1946
-MOBILE,16 - Cottage Hill N,MOBILE,30.6488,-88.1946
-MOBILE,17 - Cottage Hill S,MOBILE,30.6488,-88.1946
-MOBILE,18 - West Mobile,MOBILE,30.6488,-88.1946
-MOBILE,19 - Tillman's Corner/Theodore,MOBILE,30.6488,-88.1946
-MOBILE,20 - Western Bay Shores,MOBILE,30.6488,-88.1946
-MOBILE,21 - Dauphin Island Pkwy South,MOBILE,30.6488,-88.1946
-MOBILE,22 - S Mobile City/Theodore,MOBILE,30.6488,-88.1946
-MOBILE,23 - Grand Bay North,MOBILE,30.6488,-88.1946
-MOBILE,24 - West Mobile County,MOBILE,30.6488,-88.1946
-MOBILE,25 - West Mobile/Semmes,MOBILE,30.6488,-88.1946
-MOBILE,26 - Semmes/Wilmer/Lott Rd,MOBILE,30.6488,-88.1946
-MOBILE,27 - Saraland,MOBILE,30.6488,-88.1946
-MOBILE,28 - Saraland/Satsuma/Axis/Creola,MOBILE,30.6488,-88.1946
-MOBILE,30 - Dauphin Island,MOBILE,30.6488,-88.1946
-MOBILE,31 - NW Mobile City/Citronelle,MOBILE,30.6488,-88.1946
-MOUNT VERNON,28 - Saraland/Satsuma/Axis/Creola,MOBILE,,
-MOUNT VERNON,29 - NE Mobile City/Mt. Vernon,MOBILE,,
-ORANGE BEACH,45 - SBald/Elberta/GulfShr/OrgeBch,MOBILE,30.2944,-87.5736
-PRICHARD,01 - Downtown,MOBILE,,
-PRICHARD,09 - MidCentral,MOBILE,,
-PRICHARD,10 - Eight Mile/Prichard,MOBILE,,
-PRICHARD,26 - Semmes/Wilmer/Lott Rd,MOBILE,,
-PRICHARD,27 - Saraland,MOBILE,,
-ROBERTSDALE,41 - CentBald/Summerdale/Loxley,MOBILE,,
-SALTAIRE,20 - Western Bay Shores,MOBILE,40.6392,-73.1982
-SARALAND,27 - Saraland,MOBILE,30.8207,-88.0706
-SARALAND,28 - Saraland/Satsuma/Axis/Creola,MOBILE,30.8207,-88.0706
-SATSUMA,18 - West Mobile,MOBILE,,
-SATSUMA,22 - S Mobile City/Theodore,MOBILE,,
-SATSUMA,27 - Saraland,MOBILE,,
-SATSUMA,28 - Saraland/Satsuma/Axis/Creola,MOBILE,,
-SATSUMA,29 - NE Mobile City/Mt. Vernon,MOBILE,,
-SAUCIER,28 - Saraland/Satsuma/Axis/Creola,MOBILE,30.6364,-89.1348
-SEMMES,24 - West Mobile County,MOBILE,30.7782,-88.2592
-SEMMES,25 - West Mobile/Semmes,MOBILE,30.7782,-88.2592
-SEMMES,26 - Semmes/Wilmer/Lott Rd,MOBILE,30.7782,-88.2592
-SEMMES,29 - NE Mobile City/Mt. Vernon,MOBILE,30.7782,-88.2592
-SILVERHILL,41 - CentBald/Summerdale/Loxley,MOBILE,30.5455,-87.7517
-SPANISH FORT,42 - SpFt/Daph/Fairhope/Mont,MOBILE,30.6749,-87.9153
-ST. ELMO,22 - S Mobile City/Theodore,MOBILE,39.0273,-88.8481
-STOCKTON,40 - NBald/SpFt/BayMin/Loxley,MOBILE,,
-SUMMERDALE,41 - CentBald/Summerdale/Loxley,MOBILE,,
-SUMMERDALE,45 - SBald/Elberta/GulfShr/OrgeBch,MOBILE,,
-THEODORE,18 - West Mobile,MOBILE,30.5477,-88.1753
-THEODORE,19 - Tillman's Corner/Theodore,MOBILE,30.5477,-88.1753
-THEODORE,20 - Western Bay Shores,MOBILE,30.5477,-88.1753
-THEODORE,21 - Dauphin Island Pkwy South,MOBILE,30.5477,-88.1753
-THEODORE,22 - S Mobile City/Theodore,MOBILE,30.5477,-88.1753
-THEODORE,23 - Grand Bay North,MOBILE,30.5477,-88.1753
-THEODORE,24 - West Mobile County,MOBILE,30.5477,-88.1753
-TILLMANS CORNER,19 - Tillman's Corner/Theodore,MOBILE,,
-VINEGAR BEND,32 - Washington County,MOBILE,31.2634,-88.3449
-WHISTLER,09 - MidCentral,MOBILE,,
-WHISTLER,10 - Eight Mile/Prichard,MOBILE,,
-WILMER,14 - Municipal Park/West Central,MOBILE,,
-WILMER,24 - West Mobile County,MOBILE,,
-WILMER,25 - West Mobile/Semmes,MOBILE,,
-WILMER,26 - Semmes/Wilmer/Lott Rd,MOBILE,,
-WILMER,27 - Saraland,MOBILE,,
-WILMER,31 - NW Mobile City/Citronelle,MOBILE,,
+City,Postal Code,MLS Area,Latitude (generated),Longitude (generated)
+ATMORE,36502,29 - NE Mobile City/Mt. Vernon,31.0238,-87.4939
+AXIS,35202,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
+AXIS,36505,29 - NE Mobile City/Mt. Vernon,30.9299,-88.0272
+AXIS,36505,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
+AXIS,36525,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
+AXIS,36605,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
+BAY MINETTE,36507,40 - NBald/SpFt/BayMin/Loxley,30.883,-87.773
+BAYOU LA BATRE,36509,22 - S Mobile City/Theodore,30.4169,-88.225
+BAYOU LA BATRE,36509,20 - Western Bay Shores,30.4169,-88.225
+BAYOU LA BATRE,36544,20 - Western Bay Shores,30.4169,-88.225
+CALVERT,36513,29 - NE Mobile City/Mt. Vernon,30.978,-96.6739
+CALVERT,36560,29 - NE Mobile City/Mt. Vernon,30.978,-96.6739
+CHICKASAW,36511,11 - Chickasaw,,
+CHICKASAW,36521,11 - Chickasaw,,
+CHICKASAW,36571,11 - Chickasaw,,
+CHICKASAW,36600,11 - Chickasaw,,
+CHICKASAW,36610,11 - Chickasaw,,
+CHICKASAW,36611,27 - Saraland,,
+CHICKASAW,36611,11 - Chickasaw,,
+CHICKASAW,36613,11 - Chickasaw,,
+CHICKASAW,36652,11 - Chickasaw,,
+CHUNCHULA,,29 - NE Mobile City/Mt. Vernon,30.9219,-88.2006
+CHUNCHULA,36521,31 - NW Mobile City/Citronelle,30.9219,-88.2006
+CHUNCHULA,36521,29 - NE Mobile City/Mt. Vernon,30.9219,-88.2006
+CHUNCHULA,36521,28 - Saraland/Satsuma/Axis/Creola,30.9219,-88.2006
+CHUNCHULA,36521,27 - Saraland,30.9219,-88.2006
+CHUNCHULA,36521,26 - Semmes/Wilmer/Lott Rd,30.9219,-88.2006
+CHUNCHULA,36521,25 - West Mobile/Semmes,30.9219,-88.2006
+CHUNCHULA,36522,31 - NW Mobile City/Citronelle,30.9219,-88.2006
+CHUNCHULA,36522,27 - Saraland,30.9219,-88.2006
+CHUNCHULA,36571,29 - NE Mobile City/Mt. Vernon,30.9219,-88.2006
+CHUNCHULA,36571,28 - Saraland/Satsuma/Axis/Creola,30.9219,-88.2006
+CHUNCHULA,36575,26 - Semmes/Wilmer/Lott Rd,30.9219,-88.2006
+CHUNCHULA,36587,31 - NW Mobile City/Citronelle,30.9219,-88.2006
+CITRONELLE,36521,31 - NW Mobile City/Citronelle,31.0907,-88.2281
+CITRONELLE,36522,31 - NW Mobile City/Citronelle,31.0907,-88.2281
+CITRONELLE,36522,29 - NE Mobile City/Mt. Vernon,31.0907,-88.2281
+CITRONELLE,36522,28 - Saraland/Satsuma/Axis/Creola,31.0907,-88.2281
+CITRONELLE,36522,26 - Semmes/Wilmer/Lott Rd,31.0907,-88.2281
+CITRONELLE,36572,31 - NW Mobile City/Citronelle,31.0907,-88.2281
+CITRONELLE,36652,31 - NW Mobile City/Citronelle,31.0907,-88.2281
+CITRONELLE,36852,31 - NW Mobile City/Citronelle,31.0907,-88.2281
+CITRONELLE,36925,29 - NE Mobile City/Mt. Vernon,31.0907,-88.2281
+CODEN,36509,20 - Western Bay Shores,30.383,-88.2383
+CODEN,36523,23 - Grand Bay North,30.383,-88.2383
+CODEN,36523,22 - S Mobile City/Theodore,30.383,-88.2383
+CODEN,36523,21 - Dauphin Island Pkwy South,30.383,-88.2383
+CODEN,36523,20 - Western Bay Shores,30.383,-88.2383
+CODEN,36525,20 - Western Bay Shores,30.383,-88.2383
+CODEN,36582,20 - Western Bay Shores,30.383,-88.2383
+CODEN,36623,20 - Western Bay Shores,30.383,-88.2383
+CODEN,36693,20 - Western Bay Shores,30.383,-88.2383
+CREOLA,36525,41 - CentBald/Summerdale/Loxley,,
+CREOLA,36525,29 - NE Mobile City/Mt. Vernon,,
+CREOLA,36525,28 - Saraland/Satsuma/Axis/Creola,,
+CREOLA,36575,28 - Saraland/Satsuma/Axis/Creola,,
+DAPHNE,3652,42 - SpFt/Daph/Fairhope/Mont,30.6035,-87.9036
+DAPHNE,36526,43 - Lake Forest/Daphne,30.6035,-87.9036
+DAPHNE,36526,42 - SpFt/Daph/Fairhope/Mont,30.6035,-87.9036
+DAUPHIN ISLAND,,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36258,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36523,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36524,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36528,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36582,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36650,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36693,30 - Dauphin Island,30.2496,-88.1839
+DAUPHIN ISLAND,36852,30 - Dauphin Island,30.2496,-88.1839
+EIGHT MILE,36610,10 - Eight Mile/Prichard,30.7635,-88.1269
+EIGHT MILE,36611,10 - Eight Mile/Prichard,30.7635,-88.1269
+EIGHT MILE,36612,10 - Eight Mile/Prichard,30.7635,-88.1269
+EIGHT MILE,36613,31 - NW Mobile City/Citronelle,30.7635,-88.1269
+EIGHT MILE,36613,27 - Saraland,30.7635,-88.1269
+EIGHT MILE,36613,26 - Semmes/Wilmer/Lott Rd,30.7635,-88.1269
+EIGHT MILE,36613,25 - West Mobile/Semmes,30.7635,-88.1269
+EIGHT MILE,36613,14 - Municipal Park/West Central,30.7635,-88.1269
+EIGHT MILE,36613,10 - Eight Mile/Prichard,30.7635,-88.1269
+EIGHT MILE,36616,26 - Semmes/Wilmer/Lott Rd,30.7635,-88.1269
+EIGHT MILE,36618,26 - Semmes/Wilmer/Lott Rd,30.7635,-88.1269
+EIGHT MILE,36618,10 - Eight Mile/Prichard,30.7635,-88.1269
+EIGHT MILE,36619,26 - Semmes/Wilmer/Lott Rd,30.7635,-88.1269
+ELBERTA,36530,45 - SBald/Elberta/GulfShr/OrgeBch,,
+FAIRHOPE,36532,44 - Fairhope/PointClear,30.523,-87.9033
+FOLEY,36535,45 - SBald/Elberta/GulfShr/OrgeBch,,
+FOLEY,36535,41 - CentBald/Summerdale/Loxley,,
+FOLEY,36555,45 - SBald/Elberta/GulfShr/OrgeBch,,
+GRAND BAY,,22 - S Mobile City/Theodore,30.4763,-88.3422
+GRAND BAY,36523,23 - Grand Bay North,30.4763,-88.3422
+GRAND BAY,36541,24 - West Mobile County,30.4763,-88.3422
+GRAND BAY,36541,23 - Grand Bay North,30.4763,-88.3422
+GRAND BAY,36541,22 - S Mobile City/Theodore,30.4763,-88.3422
+GRAND BAY,36541,19 - Tillman's Corner/Theodore,30.4763,-88.3422
+GRAND BAY,36542,22 - S Mobile City/Theodore,30.4763,-88.3422
+GRAND BAY,36544,22 - S Mobile City/Theodore,30.4763,-88.3422
+GRAND BAY,36561,22 - S Mobile City/Theodore,30.4763,-88.3422
+GRAND BAY,36571,23 - Grand Bay North,30.4763,-88.3422
+GRAND BAY,36575,23 - Grand Bay North,30.4763,-88.3422
+GRAND BAY,36582,24 - West Mobile County,30.4763,-88.3422
+GRAND BAY,36582,23 - Grand Bay North,30.4763,-88.3422
+GRAND BAY,36582,22 - S Mobile City/Theodore,30.4763,-88.3422
+GRAND BAY,36582,19 - Tillman's Corner/Theodore,30.4763,-88.3422
+GULF SHORES,36542,45 - SBald/Elberta/GulfShr/OrgeBch,30.246,-87.7008
+IRVINGTON,36509,22 - S Mobile City/Theodore,,
+IRVINGTON,36541,23 - Grand Bay North,,
+IRVINGTON,36541,22 - S Mobile City/Theodore,,
+IRVINGTON,36544,24 - West Mobile County,,
+IRVINGTON,36544,23 - Grand Bay North,,
+IRVINGTON,36544,22 - S Mobile City/Theodore,,
+IRVINGTON,36544,20 - Western Bay Shores,,
+IRVINGTON,36544,19 - Tillman's Corner/Theodore,,
+IRVINGTON,36568,22 - S Mobile City/Theodore,,
+IRVINGTON,46544,22 - S Mobile City/Theodore,,
+JACKSON,36545,31 - NW Mobile City/Citronelle,,
+KUSHLA,36613,27 - Saraland,,
+LOXLEY,36551,41 - CentBald/Summerdale/Loxley,30.6182,-87.753
+MCINTOSH,36553,31 - NW Mobile City/Citronelle,,
+MILLRY,36605,21 - Dauphin Island Pkwy South,31.634,-88.3133
+MOBILE,4,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,366,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,366,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,3660,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,3660,03 - MidTown East,30.6488,-88.1946
+MOBILE,3667,03 - MidTown East,30.6488,-88.1946
+MOBILE,30660,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,33605,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,33617,09 - MidCentral,30.6488,-88.1946
+MOBILE,33695,18 - West Mobile,30.6488,-88.1946
+MOBILE,35202,01 - Downtown,30.6488,-88.1946
+MOBILE,35595,24 - West Mobile County,30.6488,-88.1946
+MOBILE,35595,18 - West Mobile,30.6488,-88.1946
+MOBILE,36512,10 - Eight Mile/Prichard,30.6488,-88.1946
+MOBILE,36518,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36521,31 - NW Mobile City/Citronelle,30.6488,-88.1946
+MOBILE,36521,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36522,31 - NW Mobile City/Citronelle,30.6488,-88.1946
+MOBILE,36523,20 - Western Bay Shores,30.6488,-88.1946
+MOBILE,36526,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36526,07 - MidTown West,30.6488,-88.1946
+MOBILE,36526,01 - Downtown,30.6488,-88.1946
+MOBILE,36528,30 - Dauphin Island,30.6488,-88.1946
+MOBILE,36528,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36528,03 - MidTown East,30.6488,-88.1946
+MOBILE,36541,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36541,23 - Grand Bay North,30.6488,-88.1946
+MOBILE,36541,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36544,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36571,28 - Saraland/Satsuma/Axis/Creola,30.6488,-88.1946
+MOBILE,36571,27 - Saraland,30.6488,-88.1946
+MOBILE,36572,28 - Saraland/Satsuma/Axis/Creola,30.6488,-88.1946
+MOBILE,36575,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36575,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36575,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36582,23 - Grand Bay North,30.6488,-88.1946
+MOBILE,36582,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36582,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,36582,20 - Western Bay Shores,30.6488,-88.1946
+MOBILE,36582,19 - Tillman's Corner/Theodore,30.6488,-88.1946
+MOBILE,36587,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36587,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36595,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36595,18 - West Mobile,30.6488,-88.1946
+MOBILE,36601,07 - MidTown West,30.6488,-88.1946
+MOBILE,36601,03 - MidTown East,30.6488,-88.1946
+MOBILE,36601,01 - Downtown,30.6488,-88.1946
+MOBILE,36602,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36602,07 - MidTown West,30.6488,-88.1946
+MOBILE,36602,03 - MidTown East,30.6488,-88.1946
+MOBILE,36602,02 - MidTown/South,30.6488,-88.1946
+MOBILE,36602,01 - Downtown,30.6488,-88.1946
+MOBILE,36603,18 - West Mobile,30.6488,-88.1946
+MOBILE,36603,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36603,10 - Eight Mile/Prichard,30.6488,-88.1946
+MOBILE,36603,09 - MidCentral,30.6488,-88.1946
+MOBILE,36603,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36603,03 - MidTown East,30.6488,-88.1946
+MOBILE,36603,02 - MidTown/South,30.6488,-88.1946
+MOBILE,36603,01 - Downtown,30.6488,-88.1946
+MOBILE,36604,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,36604,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36604,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36604,11 - Chickasaw,30.6488,-88.1946
+MOBILE,36604,09 - MidCentral,30.6488,-88.1946
+MOBILE,36604,07 - MidTown West,30.6488,-88.1946
+MOBILE,36604,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36604,03 - MidTown East,30.6488,-88.1946
+MOBILE,36604,02 - MidTown/South,30.6488,-88.1946
+MOBILE,36604,01 - Downtown,30.6488,-88.1946
+MOBILE,36605,23 - Grand Bay North,30.6488,-88.1946
+MOBILE,36605,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36605,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,36605,20 - Western Bay Shores,30.6488,-88.1946
+MOBILE,36605,18 - West Mobile,30.6488,-88.1946
+MOBILE,36605,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36605,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36605,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36605,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36605,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36605,03 - MidTown East,30.6488,-88.1946
+MOBILE,36605,02 - MidTown/South,30.6488,-88.1946
+MOBILE,36605,01 - Downtown,30.6488,-88.1946
+MOBILE,36606,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,36606,19 - Tillman's Corner/Theodore,30.6488,-88.1946
+MOBILE,36606,18 - West Mobile,30.6488,-88.1946
+MOBILE,36606,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36606,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36606,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36606,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36606,09 - MidCentral,30.6488,-88.1946
+MOBILE,36606,07 - MidTown West,30.6488,-88.1946
+MOBILE,36606,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36606,03 - MidTown East,30.6488,-88.1946
+MOBILE,36606,02 - MidTown/South,30.6488,-88.1946
+MOBILE,36607,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36607,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36607,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36607,11 - Chickasaw,30.6488,-88.1946
+MOBILE,36607,09 - MidCentral,30.6488,-88.1946
+MOBILE,36607,07 - MidTown West,30.6488,-88.1946
+MOBILE,36607,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36607,03 - MidTown East,30.6488,-88.1946
+MOBILE,36607,01 - Downtown,30.6488,-88.1946
+MOBILE,36608,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36608,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36608,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36608,23 - Grand Bay North,30.6488,-88.1946
+MOBILE,36608,18 - West Mobile,30.6488,-88.1946
+MOBILE,36608,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36608,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36608,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36608,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36608,09 - MidCentral,30.6488,-88.1946
+MOBILE,36608,07 - MidTown West,30.6488,-88.1946
+MOBILE,36608,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36608,03 - MidTown East,30.6488,-88.1946
+MOBILE,36608,01 - Downtown,30.6488,-88.1946
+MOBILE,36609,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36609,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36609,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36609,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,36609,20 - Western Bay Shores,30.6488,-88.1946
+MOBILE,36609,19 - Tillman's Corner/Theodore,30.6488,-88.1946
+MOBILE,36609,18 - West Mobile,30.6488,-88.1946
+MOBILE,36609,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36609,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36609,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36609,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36609,09 - MidCentral,30.6488,-88.1946
+MOBILE,36609,07 - MidTown West,30.6488,-88.1946
+MOBILE,36609,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36609,01 - Downtown,30.6488,-88.1946
+MOBILE,36610,10 - Eight Mile/Prichard,30.6488,-88.1946
+MOBILE,36610,09 - MidCentral,30.6488,-88.1946
+MOBILE,36611,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36611,11 - Chickasaw,30.6488,-88.1946
+MOBILE,36611,03 - MidTown East,30.6488,-88.1946
+MOBILE,36612,10 - Eight Mile/Prichard,30.6488,-88.1946
+MOBILE,36613,27 - Saraland,30.6488,-88.1946
+MOBILE,36613,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36613,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36613,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36613,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36613,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36613,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36613,10 - Eight Mile/Prichard,30.6488,-88.1946
+MOBILE,36616,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36616,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36616,07 - MidTown West,30.6488,-88.1946
+MOBILE,36617,18 - West Mobile,30.6488,-88.1946
+MOBILE,36617,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36617,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36617,11 - Chickasaw,30.6488,-88.1946
+MOBILE,36617,10 - Eight Mile/Prichard,30.6488,-88.1946
+MOBILE,36617,09 - MidCentral,30.6488,-88.1946
+MOBILE,36617,07 - MidTown West,30.6488,-88.1946
+MOBILE,36617,02 - MidTown/South,30.6488,-88.1946
+MOBILE,36618,31 - NW Mobile City/Citronelle,30.6488,-88.1946
+MOBILE,36618,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36618,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36618,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36618,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36618,21 - Dauphin Island Pkwy South,30.6488,-88.1946
+MOBILE,36618,18 - West Mobile,30.6488,-88.1946
+MOBILE,36618,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36618,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36618,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36618,10 - Eight Mile/Prichard,30.6488,-88.1946
+MOBILE,36618,09 - MidCentral,30.6488,-88.1946
+MOBILE,36619,28 - Saraland/Satsuma/Axis/Creola,30.6488,-88.1946
+MOBILE,36619,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36619,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36619,23 - Grand Bay North,30.6488,-88.1946
+MOBILE,36619,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36619,20 - Western Bay Shores,30.6488,-88.1946
+MOBILE,36619,19 - Tillman's Corner/Theodore,30.6488,-88.1946
+MOBILE,36619,18 - West Mobile,30.6488,-88.1946
+MOBILE,36619,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36619,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36650,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36669,18 - West Mobile,30.6488,-88.1946
+MOBILE,36675,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36682,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36685,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36685,18 - West Mobile,30.6488,-88.1946
+MOBILE,36685,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36691,20 - Western Bay Shores,30.6488,-88.1946
+MOBILE,36691,18 - West Mobile,30.6488,-88.1946
+MOBILE,36691,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36691,07 - MidTown West,30.6488,-88.1946
+MOBILE,36691,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36693,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36693,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36693,20 - Western Bay Shores,30.6488,-88.1946
+MOBILE,36693,19 - Tillman's Corner/Theodore,30.6488,-88.1946
+MOBILE,36693,18 - West Mobile,30.6488,-88.1946
+MOBILE,36693,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36693,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36693,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36693,07 - MidTown West,30.6488,-88.1946
+MOBILE,36694,18 - West Mobile,30.6488,-88.1946
+MOBILE,36695,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,36695,25 - West Mobile/Semmes,30.6488,-88.1946
+MOBILE,36695,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36695,23 - Grand Bay North,30.6488,-88.1946
+MOBILE,36695,22 - S Mobile City/Theodore,30.6488,-88.1946
+MOBILE,36695,19 - Tillman's Corner/Theodore,30.6488,-88.1946
+MOBILE,36695,18 - West Mobile,30.6488,-88.1946
+MOBILE,36695,17 - Cottage Hill S,30.6488,-88.1946
+MOBILE,36695,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36695,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36695,14 - Municipal Park/West Central,30.6488,-88.1946
+MOBILE,36695,09 - MidCentral,30.6488,-88.1946
+MOBILE,36695,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36955,24 - West Mobile County,30.6488,-88.1946
+MOBILE,36995,18 - West Mobile,30.6488,-88.1946
+MOBILE,46608,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,95501,16 - Cottage Hill N,30.6488,-88.1946
+MOUNT VERNON,36560,29 - NE Mobile City/Mt. Vernon,,
+MOUNT VERNON,36560,28 - Saraland/Satsuma/Axis/Creola,,
+ORANGE BEACH,36561,45 - SBald/Elberta/GulfShr/OrgeBch,30.2944,-87.5736
+PRICHARD,36610,10 - Eight Mile/Prichard,,
+PRICHARD,36610,09 - MidCentral,,
+PRICHARD,36610,01 - Downtown,,
+PRICHARD,36612,10 - Eight Mile/Prichard,,
+PRICHARD,36613,27 - Saraland,,
+PRICHARD,36613,26 - Semmes/Wilmer/Lott Rd,,
+PRICHARD,36613,10 - Eight Mile/Prichard,,
+PRICHARD,36618,09 - MidCentral,,
+ROBERTSDALE,36567,41 - CentBald/Summerdale/Loxley,,
+SALTAIRE,36582,20 - Western Bay Shores,40.6392,-73.1982
+SARALAND,36521,27 - Saraland,30.8207,-88.0706
+SARALAND,36557,28 - Saraland/Satsuma/Axis/Creola,30.8207,-88.0706
+SARALAND,36571,28 - Saraland/Satsuma/Axis/Creola,30.8207,-88.0706
+SARALAND,36571,27 - Saraland,30.8207,-88.0706
+SARALAND,36572,28 - Saraland/Satsuma/Axis/Creola,30.8207,-88.0706
+SARALAND,36572,27 - Saraland,30.8207,-88.0706
+SARALAND,36613,27 - Saraland,30.8207,-88.0706
+SARALAND,36693,27 - Saraland,30.8207,-88.0706
+SARALAND,36695,27 - Saraland,30.8207,-88.0706
+SARALAND,36751,27 - Saraland,30.8207,-88.0706
+SARALAND,39571,28 - Saraland/Satsuma/Axis/Creola,30.8207,-88.0706
+SATSUMA,365,28 - Saraland/Satsuma/Axis/Creola,,
+SATSUMA,36525,28 - Saraland/Satsuma/Axis/Creola,,
+SATSUMA,36544,28 - Saraland/Satsuma/Axis/Creola,,
+SATSUMA,36571,28 - Saraland/Satsuma/Axis/Creola,,
+SATSUMA,36571,27 - Saraland,,
+SATSUMA,36572,29 - NE Mobile City/Mt. Vernon,,
+SATSUMA,36572,28 - Saraland/Satsuma/Axis/Creola,,
+SATSUMA,36572,27 - Saraland,,
+SATSUMA,36572,22 - S Mobile City/Theodore,,
+SATSUMA,36572,18 - West Mobile,,
+SATSUMA,36575,28 - Saraland/Satsuma/Axis/Creola,,
+SATSUMA,36972,28 - Saraland/Satsuma/Axis/Creola,,
+SAUCIER,36572,28 - Saraland/Satsuma/Axis/Creola,30.6364,-89.1348
+SEMMES,33575,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36401,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36505,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36526,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36571,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36571,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36572,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36573,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36575,29 - NE Mobile City/Mt. Vernon,30.7782,-88.2592
+SEMMES,36575,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36575,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36575,24 - West Mobile County,30.7782,-88.2592
+SEMMES,36585,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36587,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36587,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36595,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36608,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36609,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36613,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36618,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36657,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36675,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36755,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36757,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36875,25 - West Mobile/Semmes,30.7782,-88.2592
+SILVERHILL,36576,41 - CentBald/Summerdale/Loxley,30.5455,-87.7517
+SPANISH FORT,36527,42 - SpFt/Daph/Fairhope/Mont,30.6749,-87.9153
+ST. ELMO,36541,22 - S Mobile City/Theodore,39.0273,-88.8481
+ST. ELMO,36544,22 - S Mobile City/Theodore,39.0273,-88.8481
+ST. ELMO,36568,22 - S Mobile City/Theodore,39.0273,-88.8481
+STOCKTON,36579,40 - NBald/SpFt/BayMin/Loxley,,
+SUMMERDALE,36580,45 - SBald/Elberta/GulfShr/OrgeBch,,
+SUMMERDALE,36580,41 - CentBald/Summerdale/Loxley,,
+THEODORE,35582,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,35682,20 - Western Bay Shores,30.5477,-88.1753
+THEODORE,36502,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,36521,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,36523,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36528,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36544,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,36571,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36572,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36582,24 - West Mobile County,30.5477,-88.1753
+THEODORE,36582,23 - Grand Bay North,30.5477,-88.1753
+THEODORE,36582,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36582,21 - Dauphin Island Pkwy South,30.5477,-88.1753
+THEODORE,36582,20 - Western Bay Shores,30.5477,-88.1753
+THEODORE,36582,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,36582,18 - West Mobile,30.5477,-88.1753
+THEODORE,36590,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36619,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,36852,23 - Grand Bay North,30.5477,-88.1753
+THEODORE,36852,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,84164,22 - S Mobile City/Theodore,30.5477,-88.1753
+TILLMANS CORNER,36619,19 - Tillman's Corner/Theodore,,
+VINEGAR BEND,36584,32 - Washington County,31.2634,-88.3449
+WHISTLER,36610,10 - Eight Mile/Prichard,,
+WHISTLER,36610,09 - MidCentral,,
+WHISTLER,36612,10 - Eight Mile/Prichard,,
+WHISTLER,36612,09 - MidCentral,,
+WHISTLER,36613,10 - Eight Mile/Prichard,,
+WILMER,,26 - Semmes/Wilmer/Lott Rd,,
+WILMER,36521,26 - Semmes/Wilmer/Lott Rd,,
+WILMER,36522,31 - NW Mobile City/Citronelle,,
+WILMER,36526,26 - Semmes/Wilmer/Lott Rd,,
+WILMER,36575,26 - Semmes/Wilmer/Lott Rd,,
+WILMER,36582,26 - Semmes/Wilmer/Lott Rd,,
+WILMER,36587,31 - NW Mobile City/Citronelle,,
+WILMER,36587,27 - Saraland,,
+WILMER,36587,26 - Semmes/Wilmer/Lott Rd,,
+WILMER,36587,25 - West Mobile/Semmes,,
+WILMER,36587,24 - West Mobile County,,
+WILMER,36587,14 - Municipal Park/West Central,,
+WILMER,36857,25 - West Mobile/Semmes,,
