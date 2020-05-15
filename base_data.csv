@@ -1,6 +1,6 @@
 City,Postal Code,MLS Area,Latitude (generated),Longitude (generated)
 ATMORE,36502,29 - NE Mobile City/Mt. Vernon,31.0238,-87.4939
-AXIS,35202,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
+AXIS,36502,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
 AXIS,36505,29 - NE Mobile City/Mt. Vernon,30.9299,-88.0272
 AXIS,36505,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
 AXIS,36525,28 - Saraland/Satsuma/Axis/Creola,30.9299,-88.0272
@@ -41,7 +41,7 @@ CITRONELLE,36522,26 - Semmes/Wilmer/Lott Rd,31.0907,-88.2281
 CITRONELLE,36572,31 - NW Mobile City/Citronelle,31.0907,-88.2281
 CITRONELLE,36652,31 - NW Mobile City/Citronelle,31.0907,-88.2281
 CITRONELLE,36852,31 - NW Mobile City/Citronelle,31.0907,-88.2281
-CITRONELLE,36925,29 - NE Mobile City/Mt. Vernon,31.0907,-88.2281
+CITRONELLE,36952,29 - NE Mobile City/Mt. Vernon,31.0907,-88.2281
 CODEN,36509,20 - Western Bay Shores,30.383,-88.2383
 CODEN,36523,23 - Grand Bay North,30.383,-88.2383
 CODEN,36523,22 - S Mobile City/Theodore,30.383,-88.2383
@@ -122,7 +122,7 @@ MOBILE,36521,14 - Municipal Park/West Central,30.6488,-88.1946
 MOBILE,36606,16 - Cottage Hill N,30.6488,-88.1946
 MOBILE,36603,03 - MidTown East,30.6488,-88.1946
 MOBILE,36670,03 - MidTown East,30.6488,-88.1946
-MOBILE,30660,04 - Dauphin Island Pkwy North,30.6488,-88.1946
+MOBILE,36600,04 - Dauphin Island Pkwy North,30.6488,-88.1946
 MOBILE,33605,21 - Dauphin Island Pkwy South,30.6488,-88.1946
 MOBILE,33617,09 - MidCentral,30.6488,-88.1946
 MOBILE,33695,18 - West Mobile,30.6488,-88.1946
@@ -358,7 +358,7 @@ SARALAND,36613,27 - Saraland,30.8207,-88.0706
 SARALAND,36693,27 - Saraland,30.8207,-88.0706
 SARALAND,36695,27 - Saraland,30.8207,-88.0706
 SARALAND,36751,27 - Saraland,30.8207,-88.0706
-SARALAND,39571,28 - Saraland/Satsuma/Axis/Creola,30.8207,-88.0706
+SARALAND,36571,28 - Saraland/Satsuma/Axis/Creola,30.8207,-88.0706
 SATSUMA,36572,28 - Saraland/Satsuma/Axis/Creola,,
 SATSUMA,36525,28 - Saraland/Satsuma/Axis/Creola,,
 SATSUMA,36544,28 - Saraland/Satsuma/Axis/Creola,,
@@ -372,7 +372,7 @@ SATSUMA,36572,18 - West Mobile,,
 SATSUMA,36575,28 - Saraland/Satsuma/Axis/Creola,,
 SATSUMA,36972,28 - Saraland/Satsuma/Axis/Creola,,
 SAUCIER,36572,28 - Saraland/Satsuma/Axis/Creola,30.6364,-89.1348
-SEMMES,33575,25 - West Mobile/Semmes,30.7782,-88.2592
+SEMMES,36575,25 - West Mobile/Semmes,30.7782,-88.2592
 SEMMES,36401,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
 SEMMES,36505,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
 SEMMES,36526,25 - West Mobile/Semmes,30.7782,-88.2592
@@ -425,7 +425,7 @@ THEODORE,36590,22 - S Mobile City/Theodore,30.5477,-88.1753
 THEODORE,36619,19 - Tillman's Corner/Theodore,30.5477,-88.1753
 THEODORE,36852,23 - Grand Bay North,30.5477,-88.1753
 THEODORE,36852,19 - Tillman's Corner/Theodore,30.5477,-88.1753
-THEODORE,36590,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36950,22 - S Mobile City/Theodore,30.5477,-88.1753
 TILLMANS CORNER,36619,19 - Tillman's Corner/Theodore,,
 VINEGAR BEND,36584,32 - Washington County,31.2634,-88.3449
 WHISTLER,36610,10 - Eight Mile/Prichard,,
