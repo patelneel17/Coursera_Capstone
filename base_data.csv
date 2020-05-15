@@ -110,7 +110,7 @@ IRVINGTON,36544,22 - S Mobile City/Theodore,,
 IRVINGTON,36544,20 - Western Bay Shores,,
 IRVINGTON,36544,19 - Tillman's Corner/Theodore,,
 IRVINGTON,36568,22 - S Mobile City/Theodore,,
-IRVINGTON,46544,22 - S Mobile City/Theodore,,
+IRVINGTON,36544,22 - S Mobile City/Theodore,,
 JACKSON,36545,31 - NW Mobile City/Citronelle,,
 KUSHLA,36613,27 - Saraland,,
 LOXLEY,36551,41 - CentBald/Summerdale/Loxley,30.6182,-87.753
@@ -333,8 +333,8 @@ MOBILE,36695,09 - MidCentral,30.6488,-88.1946
 MOBILE,36695,04 - Dauphin Island Pkwy North,30.6488,-88.1946
 MOBILE,36955,24 - West Mobile County,30.6488,-88.1946
 MOBILE,36995,18 - West Mobile,30.6488,-88.1946
-MOBILE,46608,15 - Springhill/USA,30.6488,-88.1946
-MOBILE,95501,16 - Cottage Hill N,30.6488,-88.1946
+MOBILE,36608,15 - Springhill/USA,30.6488,-88.1946
+MOBILE,36695,16 - Cottage Hill N,30.6488,-88.1946
 MOUNT VERNON,36560,29 - NE Mobile City/Mt. Vernon,,
 MOUNT VERNON,36560,28 - Saraland/Satsuma/Axis/Creola,,
 ORANGE BEACH,36561,45 - SBald/Elberta/GulfShr/OrgeBch,30.2944,-87.5736
@@ -425,7 +425,7 @@ THEODORE,36590,22 - S Mobile City/Theodore,30.5477,-88.1753
 THEODORE,36619,19 - Tillman's Corner/Theodore,30.5477,-88.1753
 THEODORE,36852,23 - Grand Bay North,30.5477,-88.1753
 THEODORE,36852,19 - Tillman's Corner/Theodore,30.5477,-88.1753
-THEODORE,84164,22 - S Mobile City/Theodore,30.5477,-88.1753
+THEODORE,36590,22 - S Mobile City/Theodore,30.5477,-88.1753
 TILLMANS CORNER,36619,19 - Tillman's Corner/Theodore,,
 VINEGAR BEND,36584,32 - Washington County,31.2634,-88.3449
 WHISTLER,36610,10 - Eight Mile/Prichard,,
