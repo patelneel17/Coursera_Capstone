@@ -130,7 +130,7 @@ MOBILE,36526,01 - Downtown,30.6488,-88.1946
 MOBILE,35595,24 - West Mobile County,30.6488,-88.1946
 MOBILE,35595,18 - West Mobile,30.6488,-88.1946
 MOBILE,36512,10 - Eight Mile/Prichard,30.6488,-88.1946
-MOBILE,36518,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
+MOBILE,,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
 MOBILE,36521,31 - NW Mobile City/Citronelle,30.6488,-88.1946
 MOBILE,36521,26 - Semmes/Wilmer/Lott Rd,30.6488,-88.1946
 MOBILE,36522,31 - NW Mobile City/Citronelle,30.6488,-88.1946
@@ -373,7 +373,7 @@ SATSUMA,36575,28 - Saraland/Satsuma/Axis/Creola,,
 SATSUMA,36972,28 - Saraland/Satsuma/Axis/Creola,,
 SAUCIER,36572,28 - Saraland/Satsuma/Axis/Creola,30.6364,-89.1348
 SEMMES,36575,25 - West Mobile/Semmes,30.7782,-88.2592
-SEMMES,36501,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36505,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
 SEMMES,36505,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
 SEMMES,36526,25 - West Mobile/Semmes,30.7782,-88.2592
 SEMMES,36571,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
@@ -384,7 +384,7 @@ SEMMES,36575,29 - NE Mobile City/Mt. Vernon,30.7782,-88.2592
 SEMMES,36575,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
 SEMMES,36575,25 - West Mobile/Semmes,30.7782,-88.2592
 SEMMES,36575,24 - West Mobile County,30.7782,-88.2592
-SEMMES,36585,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
+SEMMES,36587,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
 SEMMES,36587,26 - Semmes/Wilmer/Lott Rd,30.7782,-88.2592
 SEMMES,36587,25 - West Mobile/Semmes,30.7782,-88.2592
 SEMMES,36595,25 - West Mobile/Semmes,30.7782,-88.2592
@@ -423,8 +423,8 @@ THEODORE,36582,19 - Tillman's Corner/Theodore,30.5477,-88.1753
 THEODORE,36582,18 - West Mobile,30.5477,-88.1753
 THEODORE,36590,22 - S Mobile City/Theodore,30.5477,-88.1753
 THEODORE,36619,19 - Tillman's Corner/Theodore,30.5477,-88.1753
-THEODORE,36852,23 - Grand Bay North,30.5477,-88.1753
-THEODORE,36852,19 - Tillman's Corner/Theodore,30.5477,-88.1753
+THEODORE,36582,23 - Grand Bay North,30.5477,-88.1753
+THEODORE,36582,19 - Tillman's Corner/Theodore,30.5477,-88.1753
 THEODORE,36950,22 - S Mobile City/Theodore,30.5477,-88.1753
 TILLMANS CORNER,36619,19 - Tillman's Corner/Theodore,,
 VINEGAR BEND,36584,32 - Washington County,31.2634,-88.3449
